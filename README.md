@@ -1,2 +1,2 @@
-# Programming
+# Programming Logic and Algorithm Design
 This course provides students with a basic understanding of programming development practices starting from designing algorithm based on the fundamental concept of  Programming logic. Concepts covered will include the application of algorithms and logic to the design and development of procedural programs to address the problem solving procedure required in computer programming field. This course will cover procedural programming concepts including data types, controls structures, iterations, functional decomposition, arrays and input validation.
