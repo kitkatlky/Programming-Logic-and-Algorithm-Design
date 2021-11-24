@@ -1,5 +1,6 @@
 # Programming Logic and Algorithm Design
-Aim to test learner’s understanding and skills in the three main phases of problem solving; which are problem analysis, algorithm creation and basic C.
+This course provides students with a basic understanding of programming development practices starting from designing algorithm based on the fundamental concept of Programming logic. Concepts covered will include the application of algorithms and logic to the design and development of procedural programs to address the problem solving procedure required in computer programming field. This course will cover procedural programming concepts including data types, controls structures, iterations, functional decomposition, arrays and input validation.
+
 
 ASSIGNMENT-1 [ASSIGNMENT 1_complete.pdf](https://github.com/kitkatlky/Programming-Logic-and-Algorithm-Design/files/7597015/ASSIGNMENT.1_complete.pdf)
 
