@@ -1,6 +1,7 @@
 # Programming Logic and Algorithm Design
 This course provides students with a basic understanding of programming development practices starting from designing algorithm based on the fundamental concept of Programming logic. Concepts covered will include the application of algorithms and logic to the design and development of procedural programs to address the problem solving procedure required in computer programming field. This course will cover procedural programming concepts including data types, controls structures, iterations, functional decomposition, arrays and input validation.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ASSIGNMENT-1 [ASSIGNMENT 1_complete.pdf](https://github.com/kitkatlky/Programming-Logic-and-Algorithm-Design/files/7597015/ASSIGNMENT.1_complete.pdf)
 
@@ -60,8 +61,9 @@ Total Cost: 30.95
 
 After all the purchases are finished, print two lines stating the total number of purchases and the total cost of all purchases.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ASSIGNMENT-2[Assignment 2 COMPLETE.pdf](https://github.com/kitkatlky/Programming-Logic-and-Algorithm-Design/files/7597123/Assignment.2.COMPLETE.pdf)
+ASSIGNMENT-2 [Assignment 2 COMPLETE.pdf](https://github.com/kitkatlky/Programming-Logic-and-Algorithm-Design/files/7597123/Assignment.2.COMPLETE.pdf)
 
 A program that prompts the user to enter the date as three integer values for the month, the day in the 
 month, and the year. The program should then output the date in the form 31st December 2003 when the 
@@ -74,7 +76,10 @@ Tasks
 -	Draw flow chart
 -	Write a C code with appropriate comments
 
-MINI PROJECT [MINI PROJECT_COMPLETE.pdf](https://github.com/kitkatlky/Programming-Logic-and-Algorithm-Design/files/7597212/MINI.PROJECT_COMPLETE.pdf)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MINI PROJECT 
+[MINI PROJECT_COMPLETE.pdf](https://github.com/kitkatlky/Programming-Logic-and-Algorithm-Design/files/7597212/MINI.PROJECT_COMPLETE.pdf)
 
 Write a menu-based program in C that uses a set of functions to perform the following operations 
 Task 1
